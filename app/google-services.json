@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888338858880",
+    "project_id": "emaillogin-3bed3",
+    "storage_bucket": "emaillogin-3bed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888338858880:android:538440427f11eb08f7f765",
+        "android_client_info": {
+          "package_name": "com.example.emaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888338858880-ov2k8v96u10qn1n4r73rm5nlqklvmtqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNFtRnGCMmRcJB0xX_fMJN31-pb1S4s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888338858880-ov2k8v96u10qn1n4r73rm5nlqklvmtqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
